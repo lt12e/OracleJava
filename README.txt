@@ -1,6 +1,9 @@
+Name: Laura Ann Truax
+CS username: lt12e
+
 Welcome.
 
-You have sucessfully obtained a copy of the contents in the oracle repository.
+You have successfully obtained a copy of the contents in the oracle repository.
 
 Now proceed with the steps outlined in the assignment description to familiarize yourself with Git.
 
