@@ -1,0 +1,22 @@
+a. There should have been two commits done to the repositry by the end of step 11, but I screwed up and did four.
+
+b. The file .gitignore was last modified on Thu Aug 20 18:05:41 2015 -0400
+
+c.  .classpath
+	.gitattributes
+	.gitignore
+	.project
+	README.txt.txt
+	HardwoodSeller.java
+	WoodItem.java
+
+d. HardwoodSeller.java:	1
+   WoodItem.java:		2
+
+e. git log shows the commits that have been done already and git status shows the changed files that are staged to be committed and other files that could be staged to be comitted.
+
+f. "git log --name-status main.java"  works if you are in the same directory as main.java, otherwise you will have to add the path to main.java
+
+g. git log --grep=transaction
+
+h. git log --author="Lauren" --after="2016-01-05" --before="2016-02-16"
